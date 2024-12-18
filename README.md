@@ -1,0 +1,2 @@
+# You-are-given-a-dataset-of-demographic-data-that-was-extracted-from-the-1994-Census-database
+In this challenge you must analyze demographic data using Pandas. You are given a dataset of demographic data that was extracted from the 1994 Census database. Here is a sample of what the data looks like:      DATA SOURSE :Dua, D. and Graff, C. (2019). UCI Machine Learning Repository. Irvine, CA: University of California, School of Informating
